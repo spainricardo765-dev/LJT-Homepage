@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024\u2013Present
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024-Present
   * HKUST NLP Group, supervised by Professor Junxian He
-* B.Eng., Shanghai Jiao Tong University (SJTU), 2020\u20132024
+* B.Eng., Shanghai Jiao Tong University (SJTU), 2020-2024
   * Graduated in June 2024
   * Zhiyuan Honor Scholarship
 
 Work experience
 ======
-* February 2025 \u2013 Present: Research Intern
+* February 2025 - Present: Research Intern
   * MINIMAX
 
-* June 2024 \u2013 September 2024: Research Intern
+* June 2024 - September 2024: Research Intern
   * Tencent WXG
   * Advisor: Zifei Shan
 
-* June 2023 \u2013 December 2023: Research Intern
+* June 2023 - December 2023: Research Intern
   * Shanghai AI Lab
   * Advisor: Prof. Yu Cheng
 
